@@ -9,6 +9,7 @@ value="<?php echo $va?>"
 </head>
  
 <body>
+	<h1>hola</h1>
 
 <form name="f">
   <p>Número 1: <input type="text" name="num1" value="0" onchange="cal()" onkeyup="cal()" /></p>
